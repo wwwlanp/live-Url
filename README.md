@@ -3,11 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>直播源汇总</title>
     <link rel="shortcut icon" href="favicon.ico">
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/light.css">
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/primer.css">
-    <script type="text/javascript" src="js/copy.js" defer="defer"></script>
 </head>
 <body>
 <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
