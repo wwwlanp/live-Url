@@ -10,7 +10,7 @@
 <body>
 <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <div class="markdown-body entry-content container-lg" itemprop="text"
-         style="color: blue;font-weight: bolder;font-size: 2em;margin-bottom: 1em">免责声明：<span style="color: red;">直播源均搜集自互联网，完全免费公开分享，不存在任何收费行为，如果你在其它收费源中看到了本页的直播源，请不要误会，他们只是直接搬运连测试源都懒得替换，本站绝对不背这黑锅，另外也请不要把直播源搬运至国内论坛或者自媒体平台，造成的任何影响与本站无关！！</span></div>
+         style="color: blue;font-weight: bolder;font-size: 2em;margin-bottom: 1em"><strong>免责声明：<span style="color: red;">直播源均搜集自互联网，完全免费公开分享，不存在任何收费行为，如果你在其它收费源中看到了本页的直播源，请不要误会，他们只是直接搬运连测试源都懒得替换，本站绝对不背这黑锅，另外也请不要把直播源搬运至国内论坛或者自媒体平台，造成的任何影响与本站无关！！</strong></span></div>
     <div class="markdown-body entry-content container-lg" itemprop="text"
          style="font-weight: bolder;font-size: 2em;margin-bottom: 1em">TG万人影音数码综合交流群：<a href="https://t.me/feiyangdigital" style="color: red;">点击加入</a></div>
     <div class="markdown-body entry-content container-lg" itemprop="text"
