@@ -39,7 +39,7 @@
         </p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
         </p>
-        <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;itouch源
+        <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;ITOUCH源
         </p>
         <p dir="auto"><code>敬请期待</code>&nbsp;&nbsp;&nbsp;&nbsp;请期待
         </p>
