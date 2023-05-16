@@ -41,6 +41,8 @@
         </p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;ITOUCH源
         </p>
+        <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
+        </p>
         <p dir="auto"><code>敬请期待</code>&nbsp;&nbsp;&nbsp;&nbsp;请期待
         </p>
         <h4 dir="auto"><a id="user-content-aptv" class="anchor" aria-hidden="true" href="#aptv">
