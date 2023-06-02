@@ -29,8 +29,8 @@
         </h4>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
         </p>
-        <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
-        <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
+        <p dir="auto"><code>https://live.d1.mk/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
+        <p dir="auto"><code>https://live.d1.mk/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
         <p dir="auto"><code>https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
