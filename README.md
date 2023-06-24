@@ -27,9 +27,9 @@
             </svg>
         </a>肥羊精选
         </h4>
-        <p dir="auto"><code>https://live.d1.mk/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
-        <p dir="auto"><code>https://live.d1.mk/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
-        <p dir="auto"><code>https://live.d1.mk/yylunbo.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
+        <p dir="auto"><code>https://www.goodiptv.club/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
+        <p dir="auto"><code>https://www.goodiptv.club/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
+        <p dir="auto"><code>https://www.goodiptv.club/yylunbo.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
         </p>
         <h4 dir="auto"><a id="user-content-Ftindy" class="anchor" aria-hidden="true" href="#Ftindy">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
