@@ -9,15 +9,8 @@
 </head>
 <body>
 <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <div class="markdown-body entry-content container-lg" itemprop="text"
-         style="color: blue;font-weight: bolder;font-size: 2em;margin-bottom: 1em"><strong>免责声明：<span style="color: red;">本项目直播源均搜集自互联网，完全免费公开分享，不存在任何收费行为，如果你在其它收费源中看到了本项目的直播源，请不要误会，他们只是直接搬运连测试源都懒得替换，本项目绝对不背这黑锅，另外也请不要把直播源搬运至国内论坛或者自媒体平台，造成的任何影响与本项目无关！！</span></div>
-    <div class="markdown-body entry-content container-lg" itemprop="text"
-         style="font-weight: bolder;font-size: 2em;margin-bottom: 1em">TG万人影音数码综合交流群：<a href="https://t.me/feiyangdigital" style="color: red;">点击加入</a></div>
-<strong><span style="font-size:20px">奈飞合租网站（<span style="color:blue">通用优惠码：feiyang</span>）：</span><span><a href="https://www.nfvideo.cc" style="color:red;font-size:20px;text-decoration:none">点击上车奈飞合租</a></span></strong></br><strong><span>IEPL高端机场（<span style="color:blue">原生支持各种流媒体</span>）：</span><span><a href="https://www.mcwy.org" target="_blank" style="color:red;font-size:20px;text-decoration:none">点击注册</a></span></strong></br><strong><span style="font-size:20px">IOS外区应用代购：</span><span><a href="https://fk.myue.club" target="_blank" style="color:red;font-size:20px;text-decoration:none">点击查看</a></span></strong></br><strong><span style="font-size:20px">在线订阅转换平台：</span><span><a href="https://sub.v1.mk" target="_blank" style="color:red;font-size:20px;text-decoration:none">点击进入</a></span></strong></br><strong><span style="font-size:20px">全平台代理客户端收集：</span><span><a href="https://sub.v1.mk/download.html" target="_blank" style="color:red;font-size:20px;text-decoration:none">点击进入</a></span></strong></br>
-    <div class="markdown-body entry-content container-lg" itemprop="text"
-         style="font-weight: bolder;font-size: 2em;margin-bottom: 1em">群晖NAS、OpenWrt软路由部署PHP直播源教程：<a href="https://pan.d1.mk/php%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B" style="color: red;">点击查看</a></div>
-    <div class="markdown-body entry-content container-lg" itemprop="text" 
-         style="font-weight: bolder;font-size: 2em;margin-bottom: 1em">斗、虎、抖、哔、YouTuBe等平台直播源代理教程：<a href="https://b23.tv/Wuj98xJ" style="color: red;">点击观看</a></strong></div>
+
+   
     <article class="markdown-body entry-content container-lg" itemprop="text">
     <h4 dir="auto"><a id="user-content-feiyang" class="anchor" aria-hidden="true" href="#feiyang">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
